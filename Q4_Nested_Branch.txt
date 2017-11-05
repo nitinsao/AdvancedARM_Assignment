@@ -1,0 +1,2 @@
+Q. Can we do nested IF-Then else in CORTEX –M4 ?
+Ans. : Yes, we can implement it using branch instruction with if-then (ITE) instruction.
